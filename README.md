@@ -9,4 +9,4 @@
 bug 或者交流建议等请反馈到 [mpvue/issues](https://github.com/Meituan-Dianping/mpvue/issues)。
 
 
-来源：https://github.com/HelloZJW/mpvue-page-factory  
+来源：https://github.com/HelloZJW/mpvue-loader
